@@ -1,0 +1,1340 @@
+[
+  {
+    "label": "ThankYou",
+    "confidence": 0.9886114001274109,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:38.607281"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9887120723724365,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:38.942071"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.988612711429596,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:39.222700"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9862160682678223,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:39.559858"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9844058156013489,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:39.814263"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9888200163841248,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:40.122534"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.987423837184906,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:40.432436"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9870218634605408,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:40.736878"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9865972399711609,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:41.014522"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9897202849388123,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:41.317296"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.8525117039680481,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:42.523819"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.8488137125968933,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:42.831864"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.8435741662979126,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:43.149507"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.8036999702453613,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:43.433319"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9874909520149231,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:44.621863"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9814266562461853,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:44.934943"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9540757536888123,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:45.250448"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9552634954452515,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:45.531425"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7953676581382751,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:45.833494"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9028062224388123,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:46.432011"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.6569193601608276,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:47.053837"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9961852431297302,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:47.322967"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.8572120070457458,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:47.655084"
+  },
+  {
+    "label": "No",
+    "confidence": 0.8575899600982666,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:47.948205"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9740188717842102,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:49.710826"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.977963924407959,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:50.033075"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9785999655723572,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:50.326964"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9399765133857727,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:50.631081"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9959754347801208,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:53.059125"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967395663261414,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:53.316470"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967182278633118,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:53.647835"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967060685157776,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:53.917035"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967494010925293,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:54.268446"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.99576735496521,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:55.414997"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.9945244789123535,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:55.728089"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.9961071610450745,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:56.031713"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9507866501808167,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:56.333884"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9957406520843506,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:57.514601"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9958778619766235,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:57.867523"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9609037637710571,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:58.121585"
+  },
+  {
+    "label": "No",
+    "confidence": 0.5918942093849182,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T16:53:58.419968"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9932737350463867,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:14.073703"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9962620139122009,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:16.758074"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968883395195007,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:17.043886"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968910813331604,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:17.350577"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968889355659485,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:17.653483"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968940019607544,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:17.931503"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968761205673218,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:18.244449"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9486916065216064,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:15:18.535784"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9904749989509583,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:17.697568"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9699998497962952,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:21.876348"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968487620353699,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:22.182902"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968529343605042,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:22.479389"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968395233154297,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:22.853052"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.6533663868904114,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:23.079199"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.9951930046081543,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:24.273293"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.9967867136001587,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:24.587340"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.9963819980621338,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:24.875661"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.971936047077179,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:26.388310"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9653005003929138,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:26.693526"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9669570922851562,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:26.984151"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.8319336175918579,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:27.882162"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9831153750419617,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:28.169275"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.8364957571029663,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:28.476860"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7320780158042908,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:30.589915"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.8728122115135193,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:30.863405"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.8054183125495911,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:31.173859"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7503466606140137,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:31.476986"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9661865830421448,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:36.636476"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.6273120045661926,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:36.871665"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.47410380840301514,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:37.188019"
+  },
+  {
+    "label": "Yes",
+    "confidence": 0.8207306265830994,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:37.480287"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9013147950172424,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:37.762158"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9599688649177551,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:38.102207"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9688004851341248,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:38.368601"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9547902941703796,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:38.672098"
+  },
+  {
+    "label": "No",
+    "confidence": 0.8965204954147339,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:38.990237"
+  },
+  {
+    "label": "No",
+    "confidence": 0.9528422951698303,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:39.278879"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9559489488601685,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:19:55.474081"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.7593446969985962,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:53.703654"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9420268535614014,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:53.983530"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9940754175186157,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:54.299973"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9951245188713074,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:54.679293"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.996711015701294,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:54.927598"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9966795444488525,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:55.217278"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967764019966125,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:55.483171"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967233538627625,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:55.789318"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967813491821289,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:56.099493"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968100190162659,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:56.400548"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9967513084411621,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:56.696294"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9968312382698059,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:56.999871"
+  },
+  {
+    "label": "Hello",
+    "confidence": 0.9964247345924377,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:57.295111"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.986536979675293,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:58.207327"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9924800395965576,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:58.508187"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9861828088760376,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:58.800809"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9847714304924011,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:59.083068"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9886720180511475,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:21:59.384332"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.5025591850280762,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:01.181693"
+  },
+  {
+    "label": "No",
+    "confidence": 0.4116535186767578,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:02.400491"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.986683189868927,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:04.208092"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9951775074005127,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:04.503518"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9632128477096558,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:04.794969"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9290719032287598,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:05.086024"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9274207949638367,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:39.014927"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9026862382888794,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:39.289231"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7005815505981445,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:39.589329"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.6050280928611755,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:39.873746"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7758421897888184,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:40.171429"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7840494513511658,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:40.476786"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.5778254270553589,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:41.081128"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.3569509983062744,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:41.391570"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.36463305354118347,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:41.669622"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.6751249432563782,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T17:22:41.974944"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.9785405993461609,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:10.010214"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.9988877177238464,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:10.239374"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.9995518326759338,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:10.567423"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.9999533891677856,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:10.864271"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.9996856451034546,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:11.129870"
+  },
+  {
+    "label": "Today",
+    "confidence": 0.5602900385856628,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:11.732204"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9205804467201233,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:12.345169"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.987235963344574,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:12.981161"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9271746277809143,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:13.230481"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.7038288712501526,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:13.576408"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.47401219606399536,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:13.839665"
+  },
+  {
+    "label": "ThankYou",
+    "confidence": 0.9020168781280518,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:14.161710"
+  },
+  {
+    "label": "Today",
+    "confidence": 0.6937910318374634,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:14.472134"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.6992793083190918,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:14.784900"
+  },
+  {
+    "label": "Today",
+    "confidence": 0.506464958190918,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:15.058243"
+  },
+  {
+    "label": "Today",
+    "confidence": 0.7542995810508728,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:15.941372"
+  },
+  {
+    "label": "Today",
+    "confidence": 0.7954812049865723,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:16.281263"
+  },
+  {
+    "label": "Give",
+    "confidence": 0.9026651382446289,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:19.558141"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.7592637538909912,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:21.330935"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.9966509938240051,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:22.531810"
+  },
+  {
+    "label": "Family",
+    "confidence": 0.5250759720802307,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:22.870550"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.9973891377449036,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:23.164557"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.8467233777046204,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:23.483293"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9906213283538818,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:23.765729"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9994944334030151,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:24.084353"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.998995840549469,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:24.340012"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.9975389242172241,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:24.640601"
+  },
+  {
+    "label": "Family",
+    "confidence": 0.9916843175888062,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:28.549264"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.9996695518493652,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:28.855882"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.999745786190033,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:29.171857"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.9997441172599792,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:29.473572"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.9997140765190125,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:29.772654"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.9993064403533936,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:30.065635"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.9834187030792236,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:30.377921"
+  },
+  {
+    "label": "Water",
+    "confidence": 0.4042665362358093,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:30.649926"
+  },
+  {
+    "label": "One",
+    "confidence": 0.45280352234840393,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:30.976569"
+  },
+  {
+    "label": "One",
+    "confidence": 0.9120896458625793,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:31.269612"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.841454267501831,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:31.549353"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.994390070438385,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:31.848586"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9796425700187683,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:32.147270"
+  },
+  {
+    "label": "Goodbye",
+    "confidence": 0.9846781492233276,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:32.464592"
+  },
+  {
+    "label": "Maybe",
+    "confidence": 0.9795863032341003,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:32.776638"
+  },
+  {
+    "label": "Maybe",
+    "confidence": 0.9194936752319336,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:33.069918"
+  },
+  {
+    "label": "Family",
+    "confidence": 0.7139449715614319,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:33.337236"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9948294758796692,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:33.676307"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9984222650527954,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:33.969680"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.996727705001831,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:34.232475"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.998645007610321,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:34.573290"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9988113641738892,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:34.876140"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9995619654655457,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:35.190157"
+  },
+  {
+    "label": "Happy",
+    "confidence": 0.9821522831916809,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:35.472513"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9996296167373657,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:35.745977"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9984436631202698,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:36.072638"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.838525116443634,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:36.362922"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9968850016593933,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:36.676924"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9994427561759949,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:36.974088"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.999477207660675,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:37.276703"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9800816178321838,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:37.540830"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.983809232711792,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:37.843908"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9900665283203125,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:38.168529"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9891078472137451,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:38.477235"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.9911466240882874,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:38.744318"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.8729999661445618,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:39.080333"
+  },
+  {
+    "label": "How",
+    "confidence": 0.479356050491333,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:39.359601"
+  },
+  {
+    "label": "How",
+    "confidence": 0.7644320130348206,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:39.695439"
+  },
+  {
+    "label": "How",
+    "confidence": 0.9797662496566772,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:39.944503"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.6413952708244324,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:40.231027"
+  },
+  {
+    "label": "Happy",
+    "confidence": 0.6882078647613525,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:40.581094"
+  },
+  {
+    "label": "Happy",
+    "confidence": 0.9086913466453552,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:40.839220"
+  },
+  {
+    "label": "Later",
+    "confidence": 0.7316080331802368,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:41.162291"
+  },
+  {
+    "label": "Later",
+    "confidence": 0.7974365949630737,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:41.430753"
+  },
+  {
+    "label": "Later",
+    "confidence": 0.7244442701339722,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:41.791186"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.5782318115234375,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:42.041882"
+  },
+  {
+    "label": "Family",
+    "confidence": 0.9489518404006958,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:42.631427"
+  },
+  {
+    "label": "Happy",
+    "confidence": 0.9508189558982849,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:42.985391"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.7403072714805603,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:43.240793"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.6401600241661072,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:43.575737"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9962825179100037,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:43.841888"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9993833303451538,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:44.131061"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9985982775688171,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:44.431380"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9984235763549805,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:44.760200"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9990109205245972,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:45.077629"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9990874528884888,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:45.331017"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.9988287091255188,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:45.675376"
+  },
+  {
+    "label": "Love",
+    "confidence": 0.8430464267730713,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:50.764113"
+  },
+  {
+    "label": "Love",
+    "confidence": 0.8122738003730774,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:51.057975"
+  },
+  {
+    "label": "Love",
+    "confidence": 0.8818990588188171,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:51.340341"
+  },
+  {
+    "label": "Food",
+    "confidence": 0.8699250221252441,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:51.675696"
+  },
+  {
+    "label": "Where",
+    "confidence": 0.8287347555160522,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:52.857873"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9946171641349792,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:53.174924"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9994416832923889,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:53.448778"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9900145530700684,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:53.768107"
+  },
+  {
+    "label": "Happy",
+    "confidence": 0.4179513156414032,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:54.055734"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9585013389587402,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:54.354408"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9914993643760681,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:54.663858"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9958154559135437,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:54.940476"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.44129645824432373,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:55.243871"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.5059635639190674,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:55.564535"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.7622939944267273,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:55.859683"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.5885176062583923,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:56.182115"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.6239131093025208,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:56.431251"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.5757520794868469,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:56.778322"
+  },
+  {
+    "label": "Four",
+    "confidence": 0.6769008636474609,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:57.034883"
+  },
+  {
+    "label": "Father",
+    "confidence": 0.7562068700790405,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:57.957352"
+  },
+  {
+    "label": "Family",
+    "confidence": 0.45120176672935486,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:58.268632"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9985768795013428,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:58.562240"
+  },
+  {
+    "label": "Mother",
+    "confidence": 0.9881179928779602,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:58.852774"
+  },
+  {
+    "label": "One",
+    "confidence": 0.9832853674888611,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:59.132398"
+  },
+  {
+    "label": "One",
+    "confidence": 0.9878829121589661,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:59.443936"
+  },
+  {
+    "label": "Two",
+    "confidence": 0.6827903389930725,
+    "landmarks_detected": true,
+    "timestamp": "2025-10-08T21:01:59.775698"
+  }
+]
