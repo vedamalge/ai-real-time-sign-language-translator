@@ -123,7 +123,7 @@ This project detects common greeting sign-language gestures in real-time using a
 | Vaishnavi | 3RB23CS117 |
 
 ### Project Guide
-Asst. Prof. Shabhnam Banu
+Asst. Prof. Shabhnum Banu
 
 ### Department
 Department of Computer Science and Technology
