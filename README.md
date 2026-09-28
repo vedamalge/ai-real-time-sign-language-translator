@@ -113,6 +113,27 @@ This project detects common greeting sign-language gestures in real-time using a
 - Add mobile device support with responsive design optimizations
 - Expand the gesture vocabulary beyond basic greetings
 
+## 👥 Team Members
+
+| Name | USN |
+|------|-----|
+| Veda | 3RB23CS119 |
+| Parvati | 3RB23CS066 |
+| Pratibha | 3RB23CS072 |
+| Vaishnavi | 3RB23CS117 |
+
+### Project Guide
+Asst. Prof. Shabhnam Banu
+
+### Department
+Department of Computer Science and Technology
+
+### College
+Bheemanna Khandre Institute of Technology, Bhalki
+
+### Academic Year
+2026–27
+
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
